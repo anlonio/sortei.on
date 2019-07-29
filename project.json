@@ -6,7 +6,7 @@
   "email": "antonio.machado.dev@gmail.com"
  },
  "version": "0.1.0",
- "binaryname": "SorTeI.On",
+ "binaryname": "SorTeioN.exe",
  "frontend": {
   "dir": "frontend",
   "install": "npm install",
